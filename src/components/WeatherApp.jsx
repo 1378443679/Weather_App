@@ -12,7 +12,7 @@ const WeatherApp = () => {
     setError("");
     setWeather(null);
 
-    const apiKey = "p3f5CrQfZB0xw91F0diMoqQfcWUuzqxt"; // <-- buraya kendi key'ini yaz
+    const apiKey = "your api key"; // your api key from accuWeather Api
 
     try {
       // 1. Adım: Location Key al
