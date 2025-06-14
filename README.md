@@ -9,7 +9,6 @@ This is a simple weather application built with React that allows users to searc
 - City-based weather search
 - Real-time temperature and weather condition display
 - Weather icon display from AccuWeather
-- Search history tracking
 - React functional components with state management
 - Clean, minimal design
 
